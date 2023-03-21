@@ -1,6 +1,6 @@
 # Namaste to everyone!
 
-## This is a study project for JetBrains Kotlin Basics course
+## This is a study project for a JetBrains Kotlin Basics course
 
 ## Abilities of the app
 
